@@ -1,10 +1,6 @@
-let user = {
+var user = {
     name: "Utkarsh",
     age: 20
-}
-
-
-
+};
 console.log("Hello");
-
-console.log(user.name);
+console.log(user.email);
