@@ -39,7 +39,7 @@ heroes.map((hero): string => {
 
 function consoleError(errmsg: string): void {
    console.log(errmsg);
-   return 2;
+   // return 2;
 }
 function handleError(errmsg: string): never {
    throw new Error(errmsg);
