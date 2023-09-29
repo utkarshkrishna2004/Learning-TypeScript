@@ -1,0 +1,11 @@
+"use strict";
+exports.__esModule = true;
+var superhero = [];
+var superpower = [];
+var superheropoints = [];
+var allUsers = [];
+superhero.push("Batman");
+superpower.push(false);
+superhero.push("Superman");
+superpower.push(true);
+allUsers.push({ name: "", isActive: true });
